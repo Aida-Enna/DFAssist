@@ -1,6 +1,6 @@
 {
   // Version
-  "version": "20171016.3",
+  "version": "20171031.1",
 
   // Duty
   "instances": {
@@ -1127,6 +1127,14 @@
       "healer": "0",
       "dps": "0"
     },
+	
+	//4.11 Raids
+    "733": {
+      "name": "Unending Coil of Bahamut (Ultimate)",
+      "tank": "2",
+      "healer": "2",
+      "dps": "4"
+    },
 
 
     // Guildhests
@@ -1552,6 +1560,15 @@
     }
   },
 
+    //Event Instance
+    "571": {
+      "name": "Haunted Manor",
+      "tank": "0",
+      "healer": "0",
+      "dps": "0"
+    }
+  },
+	
   // Duty Roulette
   "roulettes": {
     "1": "Duty Roulette: Leveling",
